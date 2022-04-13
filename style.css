@@ -1,0 +1,209 @@
+body{
+    background-color: whitesmoke;
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* header1 start */
+#header1{
+    background-color: rgb(53, 52, 53);
+    text-align: center;
+    height: 47x;
+ 
+}
+#header1 a {
+    text-decoration: none;
+    margin-left: 20px;
+    color: grey;
+}
+#header1 a:hover{
+    color:ivory;
+}
+#tableheader1 {
+    
+width: 100%;
+}
+#tableheader1 td{
+margin-left: 10px;
+}
+/* header1 end */
+
+/* header 2 start */
+#header2{
+    background-color: lavender;
+    height: 500px;
+    width: 100%;
+    display: inline-block;
+    background : url(image/img1.jpg) center center/cover;
+    background-attachment: fixed;
+
+    
+}
+#logo{
+    height: 50px;
+    margin-left: 100px;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: orangered;
+}
+
+ #tableheaderin2{
+     margin-top: 10px;
+   text-align: center;
+
+ width: 100%;
+  
+}
+ #tableheaderin2 td{
+     
+   text-align: center;
+
+ margin-left: -6px;
+  
+}
+
+ #tableheaderin2 a{
+ text-decoration: none;
+ color: white;
+}
+ /* #tableheaderin2 td{
+margin-left: 100px;
+} */
+ #tableheaderin2 a:hover{
+ 
+ color:orangered;
+}
+ #tableheaderin2 input{
+     width: 190px;
+     height: 23px;
+     border-radius: 20px;
+     text-align: center;
+ 
+ 
+}
+/* header2 end */
+
+
+/* container1 start*/
+#container1{
+    margin-top: 10px;
+}
+#tablecontainer1 {
+    width: 100%;
+text-align: center;
+
+}
+/* container1 end */
+
+/* conatiner2 start*/
+
+#container2  h1{
+    
+    text-align: center;
+    display: inline-block;
+    margin: left 50%;
+}
+#container2{
+    
+    margin-left: 10%;
+}
+
+/* conatiner2  end*/
+
+/* conatiner3  end*/
+#tablecontainer3{
+    text-align: center;
+    width: 100%;
+}
+/* conatiner3  end*/
+
+
+/* conatiner4 start*/
+    #container4 h1{
+    
+        text-align: center;
+        display: inline-block;
+        margin: left 50%;
+    }
+    #container4{
+    
+        margin-left: 10%;
+    }
+
+/* conatiner4  end*/
+
+/* conatiner5  start*/
+#container5 {
+    margin-left: 259px;
+    width: 75%;
+display: inline-block;
+    text-align: center;
+}
+#container5 a{
+    
+  text-decoration: none;
+  color: grey;
+}
+#container5 a:hover{
+    /* position: relative */
+color: orangered;
+}
+#tablecontainer5 {
+text-align: center;
+    width: 80%;
+}
+/* conatiner5  end*/
+
+/* conatiner6 STRAT*/
+#container6{
+    /* width: 100%; */
+    margin-top: 20px;
+/* text-align: center; */
+    height: 400px
+    
+}
+#tablecontainer6{
+    width: 100%;
+    height: 400px;
+    text-align: center;
+
+
+}
+#tablecontainer6 img
+{
+height: 300px;
+width:300px;
+}
+
+
+/* conatiner6 end*/
+/* footer start */
+#footer{
+    margin-top: 27px;
+    width: 100%;
+    height: 540px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+#footertable{
+    width: 100%;
+    margin-bottom: 30px;
+    
+}
+#footer a{
+    text-decoration: none;
+    color: rgb(139, 135, 135);
+
+}
+#footer td{
+   margin: 30px;
+
+}
+#footer a:hover{
+    color: orangered;
+}
+#footer button{
+width: 30px;
+height: 20px;
+}
+/* footer end */
